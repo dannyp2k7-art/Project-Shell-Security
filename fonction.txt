@@ -1,0 +1,14 @@
+ls -la + timestamps vérifier manuellement les dates de modification des fichiers sensibles. 
+history comparé  sauvegarder l'historique shell d'un utilisateur et détecter des commandes inhabituelles par simple
+
+
+sécurisation / cryptage de l'historique et alias ?
+gestion des autorisations users
+mdp sur le shell au démarage
+ne pas sauvegarder d'eventuel commande sensible de l'historique avec des keyword
+Vérification $PATH (verif caractère spécial ?
+Système de log( erreur commande ect...)
+Bloquage des périfériques
+
+
+

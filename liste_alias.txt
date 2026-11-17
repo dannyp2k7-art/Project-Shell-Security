@@ -1,0 +1,8 @@
+alias john='/home/nox/app/john'
+alias ls='ls --color=auto'
+chateau=echo salut  
+danny=echo quelle  
+boule=echo coucou 
+gabriel=echo il est trop beau 
+phillippe=ls 
+coucou=echo coucou 
